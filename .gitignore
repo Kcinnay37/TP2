@@ -1,0 +1,4 @@
+build
+Deployment/**
+!Deployment/keepme
+*/.vscode/**
